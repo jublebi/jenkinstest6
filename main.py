@@ -5,5 +5,5 @@ kilometers = 10
 conv_fac = 0.621371
 
 # calculate miles
-miles = kilometers * conv_fac
+miles = kilo meters * conv_fac
 print('%0.2f kilometers is equal to %0.2f miles' %(kilometers,miles))
